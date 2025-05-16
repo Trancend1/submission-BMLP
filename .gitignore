@@ -1,4 +1,7 @@
-__pycache__/
-*.h5
-*.csv
-.ipynb_checkpoints/
+# Abaikan semua file kecuali:
+*
+
+# Track (kecualikan dari ignore) file dengan ekstensi ini:
+!*.ipynb
+!*.csv
+!*.h5
